@@ -1,0 +1,12 @@
+{
+    "name": "cours/slim",
+    "authors": [
+        {
+            "name": "Said",
+            "email": "said@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
